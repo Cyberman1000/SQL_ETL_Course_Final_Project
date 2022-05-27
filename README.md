@@ -12,7 +12,9 @@ Order in which to execute the programs:
 
 SSMS - CREATE DATABASE Query
 
-ETL - Transfer flatfile data to Database for each file (Look at pictures for reference on how to tranfer successfully)
+ETL - Transfer flatfile data to Database for each file
+
+(Look at pictures for reference on how to tranfer data using ETL successfully. Click OK on Connection manager windows to cement changes)
 
 SSMS - SELECT Query
 
